@@ -1,0 +1,118 @@
+{
+ "04": {
+  "file": "mm_04.ogg",
+  "loop_start": 2.004146,
+  "length": 2.304229,
+  "seam": 0.9996
+ },
+ "10": {
+  "file": "mm_10.ogg",
+  "loop_start": 9.31175,
+  "length": 59.494125,
+  "seam": 0.9793
+ },
+ "1b": {
+  "file": "mm_1b.ogg",
+  "loop_start": null,
+  "length": 30.308729
+ },
+ "1e": {
+  "file": "mm_1e.ogg",
+  "loop_start": null,
+  "length": 14.392125
+ },
+ "47": {
+  "file": "mm_47.ogg",
+  "loop_start": 2.00025,
+  "length": 4.595333,
+  "seam": 0.6536
+ },
+ "49": {
+  "file": "mm_49.ogg",
+  "loop_start": 2.000604,
+  "length": 2.623479,
+  "seam": 0.8384
+ },
+ "4b": {
+  "file": "mm_4b.ogg",
+  "loop_start": 2.000917,
+  "length": 3.718042,
+  "seam": 0.5439
+ },
+ "4d": {
+  "file": "mm_4d.ogg",
+  "loop_start": 2.002063,
+  "length": 3.533417,
+  "seam": 0.5431
+ },
+ "4f": {
+  "file": "mm_4f.ogg",
+  "loop_start": 2.001625,
+  "length": 2.607396,
+  "seam": 0.807
+ },
+ "51": {
+  "file": "mm_51.ogg",
+  "loop_start": 2.002583,
+  "length": 4.426833,
+  "seam": 0.5911
+ },
+ "05": {
+  "file": "mm_05.ogg",
+  "loop_start": 2.0,
+  "length": 2.469521,
+  "seam": 1.0
+ },
+ "08": {
+  "file": "mm_08.ogg",
+  "loop_start": 63.290729,
+  "length": 179.459104,
+  "seam": 0.8672
+ },
+ "0a": {
+  "file": "mm_0a.ogg",
+  "loop_start": 13.254146,
+  "length": 179.456792,
+  "seam": 0.9945
+ },
+ "0c": {
+  "file": "mm_0c.ogg",
+  "loop_start": null,
+  "length": 113.262
+ },
+ "0e": {
+  "file": "mm_0e.ogg",
+  "loop_start": 69.103667,
+  "length": 179.432813,
+  "seam": 0.3171
+ },
+ "14": {
+  "file": "mm_14.ogg",
+  "loop_start": 9.758521,
+  "length": 179.451938,
+  "seam": 0.1116
+ },
+ "16": {
+  "file": "mm_16.ogg",
+  "loop_start": 114.262875,
+  "length": 179.448438,
+  "seam": 0.0763
+ },
+ "18": {
+  "file": "mm_18.ogg",
+  "loop_start": null,
+  "length": 89.326292
+ },
+ "39": {
+  "file": "mm_39.ogg",
+  "loop_start": 2.001208,
+  "length": 11.214354,
+  "seam": 0.005
+ },
+ "10b": {
+  "file": "mm_10b.ogg",
+  "loop_start": 16.840062,
+  "length": 33.048208,
+  "seam": 0.9369
+ }
+}

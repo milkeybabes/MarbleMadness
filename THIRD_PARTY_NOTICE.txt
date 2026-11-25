@@ -1,0 +1,14 @@
+Attribution and rights notice
+=============================
+
+Atari Marble Madness (1984) is the original reference work. Atari and Marble
+Madness are the property of their respective rights holders. Conversion of
+assets and data does not place them into the public domain.
+
+The submitted Python sources credit portions of the algorithms, including
+SLAPSTIC / physics work, as adapted from 'marble-love' by Marco Magnocavallo
+(2026), marked in those files as MIT licensed. When publicly distributing this
+project, verify the original upstream license and include its full text.
+
+No copyright license is granted here for any Atari artwork, music or game
+assets. The ROM archive was used locally for extraction and is not included.
